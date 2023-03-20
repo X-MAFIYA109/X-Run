@@ -18,7 +18,7 @@
 
 * `pip install bs4`
 
-* `rm -rf X-MAFIYA-AUTO-SHARE`
+* `rm -rf X-Run`
 
 * `git clone https://github.com/X-MAFIYA109/X-Run.git`
 
