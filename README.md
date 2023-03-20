@@ -24,7 +24,7 @@
 
 * `cd X-Run`
 
-* `python Run.py`
+* `python run_enc.py`
 
 
 ___This Tool is Free Enjoy Dear User.___</br>
